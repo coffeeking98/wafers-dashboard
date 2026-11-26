@@ -234,3 +234,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,git,windows
+# 문정훈 개인 GPT 가이드 파일
+/AGENTS.md
